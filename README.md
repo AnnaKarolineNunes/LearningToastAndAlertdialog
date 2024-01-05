@@ -23,6 +23,6 @@ Ter o android studio. ( neste projeto foi utilizado o android-studio-2020.3.1.22
 - Ter o aplicativo do emulador instalado ( tela : PIXEL 2 API 27 )
 ```bash
 # Exemplo de comando de instalação
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/AnnaKarolineNunes/LearningToastAndAlertdialog.git
+cd LearningToastAndAlertdialog
 ./gradlew installDebug
